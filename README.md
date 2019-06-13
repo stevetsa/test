@@ -1,4 +1,4 @@
-<h1 tabindex="0">Table of Contents</h1>
+<a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents">
 
 
  
@@ -7,7 +7,7 @@
    
 
   
-* What is You
+# What is You
 
 The newest TopGolf location, just east of National Harbor, opened to some select guests Wednesday night. While the opening has long been rumored to signal the closing of the original Alexandria location, TopGolf representatives said there is no plan to do so.
 
@@ -17,8 +17,7 @@ Hannah added that there is always the possibility something will change down the
 
 The new TopGolf is situated just south of the Beltway, across Indian Head Highway from MGM National Harbor. With 102 bays over three levels and similar common spaces, it is nearly identical in both size and layout to the Loudon County location, but significantly larger than the Alexandria one.
 
-
-* Dummy link 2
+# Dummy link 2
  
 “The biggest difference we have here at this venue is we will have the Toptracer technology,” said Hannah, referring to the ball-flight tracking seen on some televised PGA Tour events, and also used at 1757 Golf Club. “We’ll have that in each and every one of our bays. So you’ll be able to shoot, hit your ball, and see how far it went, really take your game to another elevated level.”
 
