@@ -1,4 +1,4 @@
-<a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents">
+<a id="user-content-table-of-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#table-of-contents">
 
 
  
