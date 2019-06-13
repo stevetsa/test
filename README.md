@@ -7,7 +7,7 @@
    
 
   
-<h1 id="main-content" tabindex="-1">What is You</h1>
+
 
 The newest TopGolf location, just east of National Harbor, opened to some select guests Wednesday night. While the opening has long been rumored to signal the closing of the original Alexandria location, TopGolf representatives said there is no plan to do so.
 
