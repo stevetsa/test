@@ -1,14 +1,12 @@
 
 # Table of Contents
-
-
-<a href="#what-is-me" tabindex="-1">What is me?</a>
-
+   * [What is Me?](#what-is-me)
    * [What is You?](#what-is-you)
   
   
   
 # What is me?
+<a href="#what-is-me" tabindex="-1">What is me?</a>
 
 The newest TopGolf location, just east of National Harbor, opened to some select guests Wednesday night. While the opening has long been rumored to signal the closing of the original Alexandria location, TopGolf representatives said there is no plan to do so.
 
