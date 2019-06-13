@@ -1,4 +1,4 @@
-<h1 id="main-content" tabindex="0" >Table of Contents</h1>
+<h1 id="main-content" tabindex="-1" >Table of Contents</h1>
 
 
  
