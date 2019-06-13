@@ -1,10 +1,9 @@
 
 # Table of Contents
 
-.anchor[href$="\#table-of-contents"][aria-hidden="true"]
 
-   <div tabindex="-1">* [What is Me?](#what-is-me)</div>
-   <a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents">
+<a href="#what-is-me" tabindex="-1">What is me?</a>
+
    * [What is You?](#what-is-you)
   
   
