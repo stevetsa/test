@@ -1,7 +1,7 @@
 
 # Table of Contents
 
-   * <div tabindex="0">[What is Me?](#what-is-me)</div>
+   <div tabindex="-1">* What is Me?](#what-is-me)</div>
    * [What is You?](#what-is-you)
   
   
