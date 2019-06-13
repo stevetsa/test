@@ -1,14 +1,13 @@
-
-# Table of Contents
+ <p tabindex="-1"><a href="#" tabindex="-1">Table of Contents</a></p>
+ 
    * [What is Me?](#what-is-me)
    * [What is You?](#what-is-you)
    
-   <p tabindex="-1"><a href="#" tabindex="5">Dummy link 1</a></p>
-   <p tabindex="4"><a href="#" tabindex="5">Dummy link 1</a></p>
+
   
   
 
- <p tabindex="-1"><a href="#" tabindex="5">Dummy link 1</a></p>
+ <p tabindex="-1"><a href="#" tabindex="-1">What is You</a></p>
 
 The newest TopGolf location, just east of National Harbor, opened to some select guests Wednesday night. While the opening has long been rumored to signal the closing of the original Alexandria location, TopGolf representatives said there is no plan to do so.
 
@@ -20,7 +19,7 @@ The new TopGolf is situated just south of the Beltway, across Indian Head Highwa
 
 
 
- <p tabindex="-1"><a href="#" tabindex="5">Dummy link 2</a></p>
+ <p tabindex="-1"><a href="#" tabindex="-1">Dummy link 2</a></p>
  
 “The biggest difference we have here at this venue is we will have the Toptracer technology,” said Hannah, referring to the ball-flight tracking seen on some televised PGA Tour events, and also used at 1757 Golf Club. “We’ll have that in each and every one of our bays. So you’ll be able to shoot, hit your ball, and see how far it went, really take your game to another elevated level.”
 
